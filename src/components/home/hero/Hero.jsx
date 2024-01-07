@@ -13,9 +13,9 @@ const Hero = () => {
   to economic status; further, identifying bright minds and enabling them to excel in their field of interest simultaneously monitoring their academic activities 
   throughout their career..</p>
             <div className='button'>
-              <button className='primary-btn'>
+              {/* <button className='primary-btn'>
                 GET STARTED NOW <i className='fa fa-long-arrow-alt-right'></i>
-              </button>
+              </button> */}
               {/* <button>
                 VIEW COURSE <i className='fa fa-long-arrow-alt-right'></i>
               </button> */}
